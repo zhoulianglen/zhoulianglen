@@ -14,9 +14,9 @@ width="35"/>
 - 🔍 **[BiP39 zhujiciqueshimeiju](https://github.com/zhoulianglen/BiP39-zhujiciqueshimeiju)** - BIP39 助记词缺失位找回工具
 - 🌈 **[Vanity Passphrase](https://github.com/zhoulianglen/vanity-passphrase)** - 通过 BIP39 密码短语生成 ETH 个性化地址，无需更改助记词
 - ⚡️ **[CEX to Lightning Calculator](https://cex2sats.imzl.com/)** - BTC 闪电网络充值提款计算器
-- 🔒 **[WeChatGuard](https://github.com/zhoulianglen/WeChatGuard)** - [已下线] Mac 微信安全锁
-- 💬 **[Wechat++](https://github.com/zhoulianglen/WechatPlusplus)** - [已下线] Mac 微信多开工具，支持自定义多开客户端数量
-- 🔉 **[YouTube 音频翻译](/#)** - [已出售] 听懂任何语言的 YouTube 视频
+- 🔒 **[WeChatGuard]** - [已下线] Mac 微信安全锁
+- 💬 **[Wechat++]** - [已下线] Mac 微信多开工具，支持自定义多开客户端数量
+- 🔉 **[YouTube 音频翻译]** - [已出售] 听懂任何语言的 YouTube 视频
 
 
 ## GitHub 活跃度
