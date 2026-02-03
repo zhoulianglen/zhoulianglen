@@ -8,16 +8,16 @@ width="35"/>
 
 ## 参与项目
 
-- 📌 **Tidylink** - [开发中]更整洁的新标签页，更有序的链接管理
+- 📌 **Tidylink** - [开发中] 更整洁的新标签页，更有序的链接管理
 - 🛍️ **[zhouliang.xyz](https://zhouliang.xyz)** - 好物分享，我的数字品味清单
-- 👵 **虐老检测硬件** - [未开源]支持检测虐待老人的低成本硬件
+- 👵 **虐老检测硬件** - [未开源] 支持检测虐待老人的低成本硬件
 - 🔍 **[BiP39 zhujiciqueshimeiju](https://github.com/zhoulianglen/BiP39-zhujiciqueshimeiju)** - BIP39 助记词缺失位找回工具
 - 🌈 **[Vanity Passphrase](https://github.com/zhoulianglen/vanity-passphrase)** - 通过 BIP39 密码短语生成 ETH 个性化地址，无需更改助记词
 - ⚡️ **[CEX to Lightning Calculator](https://cex2sats.imzl.com/)** - BTC 闪电网络充值提款计算器
 - 🔒 **WeChatGuard** - [已下线] Mac 微信安全锁
 - 💬 **Wechat++** - [已下线] Mac 微信多开工具，支持自定义多开客户端数量
 - 🔉 **YouTube 音频翻译** - [已出售] 听懂任何语言的 YouTube 视频
-
+- 🎨 **ZenMind** - 自用 Hexo 简洁单栏主题
 
 ## GitHub 活跃度
 
