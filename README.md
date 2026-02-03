@@ -6,7 +6,7 @@ width="35"/>
 > 沉浸在 Vibe Coding 中，以惊人的速度构建产品。目标：成为 X 领域里最会用 AI 的那个人 🫡
 
 
-## 参与项目
+## 独立作品
 
 - 📌 **Tidylink** - [开发中] 更整洁的新标签页，更有序的链接管理
 - 🛍️ **[zhouliang.xyz](https://zhouliang.xyz)** - 好物分享，我的数字品味清单
