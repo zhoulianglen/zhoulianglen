@@ -8,6 +8,7 @@ width="35"/>
 
 ## 项目
 
+- 🤖 **[Aidots](https://github.com/zhoulianglen/Aidots)** - Vibe Coding 配置管理器，扫描、备份、恢复和对比你的 AI 编码工具配置
 - 📌 **[TidyLink](https://tidylink.app)** - 更整洁有序的新标签页链接管理插件，100% 本地数据。
 - 🛍️ **[zhouliang.xyz](https://zhouliang.xyz)** - 好物分享，我的数字品味清单
 - 👵 **虐老检测硬件** - [未开源] 支持检测虐待老人的低成本硬件
