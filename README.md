@@ -7,7 +7,7 @@ width="35"/>
 
 
 ## 项目
-
+- ✍️ **[Verso](https://github.com/zhoulianglen/verso)** -  Markdown 阅读/编辑器。双击 .md 文件即刻打开，阅读、编辑、关闭,就这么简单。
 - 🤖 **[Aidots](https://github.com/zhoulianglen/Aidots)** - Vibe Coding 配置管理器，扫描、备份、恢复和对比你的 AI 编码工具配置
 - 📌 **[TidyLink](https://tidylink.app)** - 更整洁有序的新标签页链接管理插件，100% 本地数据。
 - 🛍️ **[zhouliang.xyz](https://zhouliang.xyz)** - 好物分享，我的数字品味清单
