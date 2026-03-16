@@ -7,7 +7,8 @@ width="35"/>
 
 
 ## 项目
-- ▶️ **[Obsidian timestamp player](https://github.com/zhoulianglen/obsidian-timestamp-player)** - 一款 Obsidian 插件，在笔记中嵌入音频，可通过时间戳跳转播放并自动高亮当前进度。        
+- ▶️ **[Obsidian timestamp player](https://github.com/zhoulianglen/obsidian-timestamp-player)** - 一款 Obsidian 插件，在笔记中嵌入音频，可通过时间戳跳转播放并自动高亮当前进度。
+- 📖 **[番茄小说下载器](https://github.com/zhoulianglen/fanqiexiaoshuo-Download)** - 番茄小说下载工具，支持将小说保存为本地 Markdown 文件
 - ✍️ **[Verso](https://github.com/zhoulianglen/verso)** -  Markdown 阅读/编辑器。双击 .md 文件即刻打开，阅读、编辑、关闭,就这么简单。
 - 🤖 **[Aidots](https://github.com/zhoulianglen/Aidots)** - Vibe Coding 配置管理器，扫描、备份、恢复和对比你的 AI 编码工具配置
 - 📌 **[TidyLink](https://tidylink.app)** - 更整洁有序的新标签页链接管理插件，100% 本地数据。
