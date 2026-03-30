@@ -7,6 +7,8 @@ width="35"/>
 
 
 ## 项目
+- 🐙 **[Github New](https://github.com/zhoulianglen/github-new)** - Claude Code Skills：从当前目录创建私有GitHub仓库并链接到远程仓库。
+- 🎙️ **[Douyin2Text](https://github.com/zhoulianglen/douyin2textskills)** - Claude Code Skills：自动下载抖音视频并完成 ASR 语音转文字。
 - ▶️ **[Obsidian timestamp player](https://github.com/zhoulianglen/obsidian-timestamp-player)** - 一款 Obsidian 插件，在笔记中嵌入音频，可通过时间戳跳转播放并自动高亮当前进度。
 - 📖 **[番茄小说下载器](https://github.com/zhoulianglen/fanqiexiaoshuo-Download)** - 番茄小说下载工具，支持将小说保存为本地 Markdown 文件
 - ✍️ **[Verso](https://github.com/zhoulianglen/verso)** -  Markdown 阅读/编辑器。双击 .md 文件即刻打开，阅读、编辑、关闭,就这么简单。
