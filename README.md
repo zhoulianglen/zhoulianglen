@@ -7,22 +7,30 @@ width="35"/>
 
 
 ## 项目
-- 🐙 **[Github New](https://github.com/zhoulianglen/github-new)** - Claude Code Skills：从当前目录创建私有GitHub仓库并链接到远程仓库。
+
+### 开源工具
+- 🐙 **[Github New](https://github.com/zhoulianglen/github-new)** - Claude Code Skills：从当前目录创建私有 GitHub 仓库并链接到远程仓库。
 - 🎙️ **[Douyin2Text](https://github.com/zhoulianglen/douyin2textskills)** - Claude Code Skills：自动下载抖音视频并完成 ASR 语音转文字。
-- ▶️ **[Obsidian timestamp player](https://github.com/zhoulianglen/obsidian-timestamp-player)** - 一款 Obsidian 插件，在笔记中嵌入音频，可通过时间戳跳转播放并自动高亮当前进度。
-- 📖 **[番茄小说下载器](https://github.com/zhoulianglen/fanqiexiaoshuo-Download)** - 番茄小说下载工具，支持将小说保存为本地 Markdown 文件
-- ✍️ **[Verso](https://github.com/zhoulianglen/verso)** -  Markdown 阅读/编辑器。双击 .md 文件即刻打开，阅读、编辑、关闭,就这么简单。
-- 🤖 **[Aidots](https://github.com/zhoulianglen/Aidots)** - Vibe Coding 配置管理器，扫描、备份、恢复和对比你的 AI 编码工具配置
+- ▶️ **[Obsidian timestamp player](https://community.obsidian.md/plugins/timestamp-player)** - Obsidian 插件：在笔记中嵌入音频，可通过时间戳跳转播放并自动高亮当前进度。
+- 📖 **[番茄小说下载器](https://github.com/zhoulianglen/fanqiexiaoshuo-Download)** - 小说下载工具，支持将小说保存为本地 Markdown 文件。
+- ✍️ **[Verso](https://github.com/zhoulianglen/verso)** - Markdown 阅读/编辑器，双击 .md 文件即刻打开、阅读、编辑。
+- 🤖 **[Aidots](https://github.com/zhoulianglen/Aidots)** - Vibe Coding 配置管理器：扫描、备份、恢复和对比你的 AI 编码工具配置。
+- 🎨 **[ZenMind](https://github.com/zhoulianglen/hexo-theme-ZenMind)** - 自用 Hexo 简洁单栏主题。
+- 🔍 **[BiP39 zhujiciqueshimeiju](https://github.com/zhoulianglen/BiP39-zhujiciqueshimeiju)** - BIP39 助记词缺失位找回工具。
+
+### 产品与服务
 - 📌 **[TidyLink](https://tidylink.app)** - 更整洁有序的新标签页链接管理插件，100% 本地数据。
-- 🛍️ **[zhouliang.xyz](https://zhouliang.xyz)** - 好物分享，我的数字品味清单
-- 👵 **虐老检测硬件** - [未开源] 支持检测虐待老人的低成本硬件
-- 🔍 **[BiP39 zhujiciqueshimeiju](https://github.com/zhoulianglen/BiP39-zhujiciqueshimeiju)** - BIP39 助记词缺失位找回工具
-- 🌈 **[Vanity Passphrase](https://vanity.imzl.com/)** - 通过 BIP39 密码短语生成 ETH 个性化地址，无需更改助记词
-- ⚡️ **[CEX to Lightning Calculator](https://cex2sats.imzl.com/)** - BTC 闪电网络充值提款计算器
-- 🔒 **WeChatGuard** - [已下线] Mac 微信安全锁
-- 💬 **Wechat++** - [已下线] Mac 微信多开工具，支持自定义多开客户端数量
-- 🔉 **YouTube 音频翻译** - [已出售] 听懂任何语言的 YouTube 视频
-- 🎨 **[ZenMind](https://github.com/zhoulianglen/hexo-theme-ZenMind)** - 自用 Hexo 简洁单栏主题
+- 🛍️ **[zhouliang.xyz](https://zhouliang.xyz)** - 好物分享，我的数字品味清单。
+- 🌈 **[Vanity Passphrase](https://vanity.imzl.com/)** - 通过 BIP39 密码短语生成 ETH 个性化地址。
+- ⚡️ **[CEX to Lightning Calculator](https://cex2sats.imzl.com/)** - BTC 闪电网络充值提款计算器。
+
+### 硬件 / 其他
+- 👵 **虐老检测硬件** - [未开源] 支持检测虐待老人的低成本硬件。
+
+### 已下线 / 已出售
+- 🔒 **WeChatGuard** - [已下线] Mac 微信安全锁。
+- 💬 **Wechat++** - [已下线] Mac 微信多开工具，支持自定义多开客户端数量。
+- 🔉 **YouTube 音频翻译** - [已出售] 听懂任何语言的 YouTube 视频。
 
 ## GitHub 活跃度
 
